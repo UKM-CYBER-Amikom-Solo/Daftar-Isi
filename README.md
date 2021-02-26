@@ -1,2 +1,2 @@
-# Daftar-Isi
+# Daftar Isi
 usahakan di update ya
