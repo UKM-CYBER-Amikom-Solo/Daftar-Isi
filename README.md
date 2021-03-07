@@ -27,6 +27,7 @@
 - [Belajar Rekayasa Perangkat Lunak](https://github.com/UKM-CYBER-Amikom-Solo/Belajar-Rekayasa-Perangkat-Lunak)
 - [Belajar Mobile Development](https://github.com/UKM-CYBER-Amikom-Solo/Belajar-Mobile-Development)
 - [Belajar Membuat Game Sederhana](https://github.com/UKM-CYBER-Amikom-Solo/Belajar-Membuat-Game-Sederhana)
+  - [Referensi Game Web](https://github.com/UKM-CYBER-Amikom-Solo/Belajar-Membuat-Game-Sederhana/blob/main/Referensi%20Game%20Web.md)
 
 ### Mode Greget
 - [Belajar AI Development](https://github.com/UKM-CYBER-Amikom-Solo/Belajar-AI-Development)
