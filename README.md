@@ -14,6 +14,8 @@
 ### Minimal Paham
   - Belajar Fullstack Development
     - [Belajar Front-End Development](https://github.com/UKM-CYBER-Amikom-Solo/Belajar-Front-End-Development)
+      - [List Framework dan Library](https://github.com/UKM-CYBER-Amikom-Solo/Belajar-Front-End-Development/blob/main/List%20Framework%20dan%20JS%20Library.md)
+      - [Belajar UI dan UX Design](https://github.com/UKM-CYBER-Amikom-Solo/Belajar-Front-End-Development/blob/main/Belajar%20UI%20dan%20UX%20Design.md)
     - [Belajar Database Development](https://github.com/UKM-CYBER-Amikom-Solo/Belajar-Database-Development/)
     - [Belajar Back-End Development](https://github.com/UKM-CYBER-Amikom-Solo/Belajar-Back-End-Development)
 
