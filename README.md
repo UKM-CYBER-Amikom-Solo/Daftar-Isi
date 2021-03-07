@@ -10,11 +10,20 @@
 - [PROKER Tahunan UKM CYBER Amikom Solo](https://github.com/UKM-CYBER-Amikom-Solo/PROKER-Tahunan-UKM-CYBER-Amikom-Solo)
 
 ## Belajar
-- [Belajar AI Development](https://github.com/UKM-CYBER-Amikom-Solo/Belajar-AI-Development)
-- [Belajar Back-End Development](https://github.com/UKM-CYBER-Amikom-Solo/Belajar-Back-End-Development)
-- [Belajar Mobile Development](https://github.com/UKM-CYBER-Amikom-Solo/Belajar-Mobile-Development)
-- [Belajar Front-End Development](https://github.com/UKM-CYBER-Amikom-Solo/Belajar-Front-End-Development)
+
+### Minimal Paham
+  - Belajar Fullstack Development
+    - [Belajar Front-End Development](https://github.com/UKM-CYBER-Amikom-Solo/Belajar-Front-End-Development)
+    - [Belajar Database Development](https://github.com/UKM-CYBER-Amikom-Solo/Belajar-Database-Development/)
+    - [Belajar Back-End Development](https://github.com/UKM-CYBER-Amikom-Solo/Belajar-Back-End-Development)
+
+### Opsional
 - [Belajar Rekayasa Perangkat Lunak](https://github.com/UKM-CYBER-Amikom-Solo/Belajar-Rekayasa-Perangkat-Lunak)
+- [Belajar Mobile Development](https://github.com/UKM-CYBER-Amikom-Solo/Belajar-Mobile-Development)
+- [Belajar Membuat Game Sederhana](https://github.com/UKM-CYBER-Amikom-Solo/Belajar-Membuat-Game-Sederhana)
+
+### Mode Greget
+- [Belajar AI Development](https://github.com/UKM-CYBER-Amikom-Solo/Belajar-AI-Development)
 
 
 ## Referensi
