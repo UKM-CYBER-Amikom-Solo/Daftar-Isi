@@ -22,6 +22,7 @@
         - JavaSript Graphic
         - JavaScript Libraries
       - [Belajar UI dan UX Design](https://github.com/UKM-CYBER-Amikom-Solo/Belajar-Front-End-Development/blob/main/Belajar%20UI%20dan%20UX%20Design.md)
+      - GUI (Graphical User Interface)
     - [Belajar Database Development](https://github.com/UKM-CYBER-Amikom-Solo/Belajar-Database-Development/)
       - [List Database](https://github.com/UKM-CYBER-Amikom-Solo/Belajar-Database-Development/blob/main/List%20Database.md)
       - Database Manager
